@@ -1,0 +1,29 @@
+h1{
+    font-size: 48px;
+    color: rebeccapurple;
+    cursor: url('file:///C:/Users/justi/webdev/images/wizard-.png'),auto;
+}
+body {
+        text-align: center;
+        background-color: rgb(229, 226, 226);
+        font-family: Arial, Helvetica, sans-serif;
+        cursor: url('file:///C:/Users/justi/webdev/images/wizard-.png'),auto;
+}
+img {
+    width: 800px;
+    height: 800px;
+    cursor: url('file:///C:/Users/justi/webdev/images/wizard-.png'),auto;
+}
+ol {
+    list-style:armenian;
+    cursor: url('file:///C:/Users/justi/webdev/images/wizard-.png'),auto;
+}
+a {
+    padding: 12px 48px;
+    border:  1px solid rgb(255, 255, 90.);
+    cursor: url('file:///C:/Users/justi/webdev/images/wizard-.png'),auto;
+}
+Button {
+    cursor: url('file:///C:/Users/justi/webdev/images/wizard-.png'),auto;
+
+}
